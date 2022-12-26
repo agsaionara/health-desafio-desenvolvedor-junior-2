@@ -1,0 +1,48 @@
+.container {
+	padding: 0;
+}
+
+.toponpage{
+	text-align: center;
+}
+
+.home{
+	text-align: center;
+	margin: auto;
+	width: 100%;
+	height: 100vh;
+	border: 3px solid green;
+	padding: 10px;
+}
+
+.home h1{
+	font-family: Sans-serif;
+	font-size: 36px;
+ 	color: green;
+}
+
+.table{
+	width: 100%;
+	margin: 10px;
+	border-collapse: collapse;
+	border: 1px solid;
+	text-align: center;
+}
+
+.headTable tr{
+	padding: 5px;
+	border-bottom: 1px solid #ddd;
+}
+
+.headTable th{
+	padding: 15px;
+  	text-align: center;
+	border-bottom: 1px solid #ddd;
+	background-color: #04AA6D;
+	color: white;
+}
+
+
+
+
+
